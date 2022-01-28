@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "process.h": "c",
+        "interrupt.h": "c",
+        "synch.h": "c",
+        "pagedir.h": "c",
+        "*.inc": "c",
+        "string_view": "c",
+        "mmap.h": "c",
+        "vaddr.h": "c",
+        "stdbool.h": "c",
+        "file.h": "c",
+        "thread.h": "c",
+        "syscall.h": "c",
+        "palloc.h": "c",
+        "string.h": "c",
+        "sup_table.h": "c",
+        "stdint.h": "c"
+    }
+}
